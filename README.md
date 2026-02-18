@@ -39,8 +39,8 @@
 
 ## ⚙️ Installation & Setup
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yourusername/student-performance-predictor.git](https://github.com/yourusername/student-performance-predictor.git)
+```bash
+git clone [https://github.com/Isha-Maryam/Student_performance_project.git](https://github.com//Isha-Maryam/Student_performance_project.git)
 
 ```
 
@@ -65,9 +65,6 @@ python manage.py migrate
 python manage.py runserver
 
 ```
-
-
-
 ---
 
 ## 📈 ML Model Details
@@ -92,7 +89,7 @@ This project is built as a **SaaS MVP (Minimum Viable Product)** for educational
 
 **Ehsan** - Full-Stack ML Developer
 
-*Let's build something intelligent together!* [LinkedIn](https://www.google.com/search?q=YOUR_LINKEDIN_URL) | [Portfolio](https://www.google.com/search?q=YOUR_PORTFOLIO_URL)
+*Let's build something intelligent together!* [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/isha-maryam-84ab8a327) | [Portfolio](https://www.google.com/search?q=https://isha-maryam-ai-engineer.web.app/)
 
 ```
 
