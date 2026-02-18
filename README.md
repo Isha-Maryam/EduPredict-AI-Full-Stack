@@ -87,7 +87,7 @@ This project is built as a **SaaS MVP (Minimum Viable Product)** for educational
 
 ## 📧 Contact & Connect
 
-**Ehsan** - Full-Stack ML Developer
+**Isha Maryam** - ML | Deep Learning | Full-Stack Developer
 
 *Let's build something intelligent together!* [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/isha-maryam-84ab8a327) | [Portfolio](https://www.google.com/search?q=https://isha-maryam-ai-engineer.web.app/)
 
