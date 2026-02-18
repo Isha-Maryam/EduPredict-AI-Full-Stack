@@ -1,4 +1,3 @@
-```
 # 🎓 EduPredict AI: Student Performance Analysis System
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -8,8 +7,6 @@
 
 ## 🚀 Overview
 **EduPredict AI** is a full-stack Machine Learning application designed to help educators and institutions predict student academic outcomes based on behavioral and historical data. By leveraging a **Random Forest Regressor**, the system provides high-accuracy math score predictions, enabling early intervention for at-risk students.
-
-
 
 ---
 
