@@ -15,7 +15,7 @@
 
 | Prediction Dashboard | Historical Records |
 | :---: | :---: |
-| ![Dashboard](Web_app/assets/Historical_Records.png) | ![History](Web_app/assets/Prediction_Dashboard.png) |
+| ![Dashboard](Web_app/assets/Prediction_Dashboard.png) | ![History](Web_app/assets/Historical_Records.png) |
 
 ---
 
