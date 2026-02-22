@@ -15,7 +15,7 @@
 
 | Prediction Dashboard | Historical Records |
 | :---: | :---: |
-| ![Dashboard](https://via.placeholder.com/400x250?text=Dashboard+Screenshot) | ![History](https://via.placeholder.com/400x250?text=History+Table+Screenshot) |
+| ![Dashboard](Web_app/assets/Historical Records.lnk) | ![History](Web_app/assets/Prediction_Dashboard.lnk) |
 
 ---
 
@@ -106,5 +106,5 @@ This project was developed as a **Technical Proof of Concept (PoC)** to demonstr
 
 > **"Turning complex data into intelligent solutions. Let's build the Something together!"**
 
-```
+
 
