@@ -6,11 +6,8 @@ from django.conf import settings
 from .forms import StudentPerformanceForm
 from .models import StudentPrediction
 
-# 1. Dynamic Path Setup
-# This builds the path: your_project_folder/ML_Model/math_model.pkl
 MODEL_PATH = os.path.join(settings.BASE_DIR, 'ML_Model', 'math_model.pkl')
 
-# Load the model once when the server starts for speed
 try:
     model = joblib.load(MODEL_PATH)
 except Exception as e:
@@ -35,15 +32,15 @@ def predict_score(request):
                 'PreviousGradeAverage': [form.cleaned_data['PreviousGradeAverage']],
             }
 
-            # 3. Create DataFrame for the Random Forest
+           
             df_input = pd.DataFrame(input_dict)
 
-            # 4. Predict (only if model loaded correctly)
+            
             if model:
                 prediction_result = model.predict(df_input)[0]
                 prediction_result = round(float(prediction_result), 2)
 
-                # 5. Save to Database (The 'Full Stack' step)
+                
                 StudentPrediction.objects.create(
                     study_hours=form.cleaned_data['StudyHours'],
                     practice_hours=form.cleaned_data['PracticeHours'],
