@@ -11,7 +11,6 @@
 ---
 
 ## 📸 Project Showroom
-> **Tip:** Replace the placeholder links below with your actual screenshot images once you upload them to your GitHub `AI_engine/assets/` folder.
 
 | Prediction Dashboard | Historical Records |
 | :---: | :---: |
