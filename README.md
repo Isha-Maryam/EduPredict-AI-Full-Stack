@@ -10,31 +10,40 @@
 
 ---
 
+## 📸 Project Showroom
+> **Tip:** Replace the placeholder links below with your actual screenshot images once you upload them to your GitHub `AI_engine/assets/` folder.
+
+| Prediction Dashboard | Historical Records |
+| :---: | :---: |
+| ![Dashboard](https://via.placeholder.com/400x250?text=Dashboard+Screenshot) | ![History](https://via.placeholder.com/400x250?text=History+Table+Screenshot) |
+
+---
+
+---
+
 ## ✨ Key Features
-* **🧠 Intelligent Prediction:** Uses a trained Random Forest model to analyze 7+ key academic metrics.
-* **📊 Dynamic Dashboard:** A clean, modern UI built with Bootstrap 5 for seamless user experience.
-* **📜 History Tracking:** Integrated SQLite database to store and review past predictions.
-* **🛡️ Data Validation:** Robust Django-form handling to ensure data integrity.
-* **📱 Responsive Design:** Fully functional on mobile, tablet, and desktop.
+* **🧠 Targeted Math Prediction:** Analyzes variables like study hours and practice patterns to predict final math scores.
+* **📊 Dynamic Dashboard:** A clean, modern UI built with Bootstrap 5 for a seamless user experience.
+* **📜 Record Database:** Integrated SQLite database to store and review past prediction history.
+* **🛡️ Data Validation:** Robust Django-form handling to ensure data integrity and model stability.
+* **📱 Fully Responsive:** Optimized for desktop, tablet, and mobile views.
 
 ---
 
 ## 🛠️ Tech Stack
 | Layer | Technology |
 | :--- | :--- |
-| **Backend** | Python 3.x, Django 5.x |
+| **Backend** | Python 3.x, Django 5.x/6.x |
 | **Machine Learning** | Scikit-Learn, Pandas, Joblib |
 | **Frontend** | HTML5, CSS3 (Inter Font), Bootstrap 5 |
-| **Database** | SQLite (Production-ready for small-scale deployment) |
+| **Database** | SQLite |
 
 ---
 
 ## 📂 Project Structure
-* `predictor/` - Core Django app containing ML logic.
-* `models/` - Pre-trained Random Forest model (`.pkl` file).
-* `templates/` - Modern UI components and layouts.
-* `static/` - Custom CSS and branding assets.
-
+* `AI_engine/` - Model training notebooks, `.pkl` files, and data visualizations.
+* `Web_app/` - Full Django project including `manage.py`, `predictor` app, and templates.
+* `requirements.txt` - All necessary Python libraries for one-click setup.
 ---
 
 ## ⚙️ Installation & Setup
@@ -47,7 +56,7 @@ git clone [https://github.com/Isha-Maryam/Student_performance_project.git](https
 2. **Setup Virtual Environment:**
 ```bash
 python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+source venv/bin/activate  
 
 ```
 
@@ -79,17 +88,23 @@ The underlying model is a **Random Forest Regressor** trained on features includ
 
 ---
 
-## 💼 Business Use Case (Freelance Focus)
+## 💼 Project Purpose & Technical Vision
+This project was developed as a **Technical Proof of Concept (PoC)** to demonstrate the integration of Machine Learning within a Full-Stack architecture. 
 
-This project is built as a **SaaS MVP (Minimum Viable Product)** for educational consultants. It demonstrates the ability to bridge the gap between complex Data Science and user-friendly web applications—a high-value skill in the freelance market.
+* **Practical Learning:** Built to master the end-to-end pipeline of data processing, model serialization, and backend integration.
+* **Bridge between AI & UX:** Showcases how complex predictive models (Random Forest) can be translated into a user-friendly interface.
+* **Scalable Foundation:** Designed with a modular "AI Engine" and "Web App" structure, making it ready for future cloud deployment or mobile integration.
 
 ---
 
 ## 📧 Contact & Connect
 
-**Isha Maryam** - ML | Deep Learning | Full-Stack Developer
+**Isha Maryam** *ML | Deep Learning | Full-Stack Developer*
 
-*Let's build something intelligent together!* [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/isha-maryam-84ab8a327) | [Portfolio](https://www.google.com/search?q=https://isha-maryam-ai-engineer.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isha-maryam-84ab8a327)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://isha-maryam-ai-engineer.web.app/)
+
+> **"Turning complex data into intelligent solutions. Let's build the Something together!"**
 
 ```
 
