@@ -1,0 +1,11 @@
+# --- CORE BACKEND (Web Framework) ---
+django>=6.0.2
+
+# --- AI ENGINE (Machine Learning) ---
+scikit-learn>=1.8.0
+pandas
+joblib
+numpy         
+
+# Styling & UI 
+django-bootstrap5

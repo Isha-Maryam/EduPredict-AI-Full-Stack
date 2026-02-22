@@ -1,0 +1,24 @@
+# --- Python & Environment ---
+venv/
+ENV/
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# --- Django Specific ---
+db.sqlite3
+/web_app/staticfiles/
+/web_app/media/
+
+# --- Machine Learning & Jupyter ---
+.ipynb_checkpoints/
+.DS_Store
+# We ignore the giant dataset CSV if you have one, 
+# but we KEEP the .pkl and .ipynb because they are your results.
+
+# --- Editor Specific ---
+.vscode/
+.idea/
+*.swp
