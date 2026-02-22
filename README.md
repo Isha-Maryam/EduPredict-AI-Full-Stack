@@ -18,7 +18,7 @@
 
 ---
 
----
+
 
 ## ✨ Key Features
 * **🧠 Targeted Math Prediction:** Analyzes variables like study hours and practice patterns to predict final math scores.
