@@ -103,7 +103,7 @@ This project was developed as a **Technical Proof of Concept (PoC)** to demonstr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isha-maryam-84ab8a327)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://isha-maryam-ai-engineer.web.app/)
 
-> **"Turning complex data into intelligent solutions. Let's build the Something together!"**
+> **"Turning complex data into intelligent solutions. Let's build Something together!"**
 
 
 
